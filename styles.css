@@ -505,7 +505,7 @@ nav {
   gap: 1rem;
 }
 
-.footer__links a {
+.footer__links p, a {
   color: var(--text-light);
   transition: 0.3s;
 }
