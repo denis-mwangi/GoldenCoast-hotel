@@ -1,1 +1,0 @@
-# GoldenCoast-hotel
